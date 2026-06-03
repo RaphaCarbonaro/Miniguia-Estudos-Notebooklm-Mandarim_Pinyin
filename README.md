@@ -1,5 +1,12 @@
 # Miniguia-Estudos-Notebooklm-Mandarim_Pinyin
-O objetivo deste repositório é a criação de um miniguia de como utilizar uma IA como guia de estudos que auxilie no estudo de mandarim, principalmente no entendimento de suas bases, como Pinyin, alfabeto e suas tonalidades.
+
+Aprender Mandarim exige consistência e uma base sólida. O objetivo deste projeto é fornecer um método estruturado de engenharia de contexto utilizando o **NotebookLM** como um guia de estudos dinâmico e personalizado. 
+
+Com este miniguia, você aprenderá a treinar e interagir com a Inteligência Artificial para dominar as bases essenciais do idioma:
+
+* 🔤 **Pinyin:** Romantização correta, pronúncia e leitura do alfabeto.
+* 🎵 **Tonalidades:** Estratégias práticas e feedbacks para compreender e diferenciar os tons do Mandarim.
+* 🤖 **IA como Tutor:** Como alimentar a ferramenta com os materiais certos para obter explicações personalizadas, testes de fixação (quizzes) e rotinas de estudo altamente eficientes.
 
 Link: https://notebooklm.google.com/notebook/21bc5afc-ce69-4ba9-a530-852345f1b319
 
